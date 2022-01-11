@@ -42,5 +42,6 @@ func main() {
 		}
 		fmt.Println(result)
 	}
-	// fmt.Printf("sum is %d", sum(number))
+	//fmt.Printf("sum is %d", sum(number))
+//helo
 }
